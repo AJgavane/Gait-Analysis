@@ -1,0 +1,178 @@
+/*---------------------------
+------------ Common Styles */
+
+body          
+{
+	margin: 0 auto;
+    padding: 0;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: Arial, sans-serif;
+    color: #575759;
+    padding: 10px 10px 10px 10px;
+}
+
+.borderBottom
+{
+    border-bottom:2px solid #575759;
+}
+.borderRight
+{
+    border-right: 2px solid #575759;
+}
+.borderLeft
+{
+    border-left: 2px solid #575759;
+}
+.divider-border {
+	border-right:1px solid #575759;
+}
+.clearfix
+{
+    clear:both;
+}
+.txt-center
+{
+	text-align:center;
+}
+.spacerH10
+{
+	height:10px;
+}
+
+/*-------------------------------
+------------------------Headers */
+
+.headerTitle
+{
+	color: #006db0;
+    font-size: 32px;
+    font-weight:bold;
+    padding-top: 20px;
+	
+}
+h2
+{
+	color: #575759;
+    font-size: 20px;
+    font-weight:bold;
+	vertical-align:bottom;
+    margin-bottom: 3px;
+    margin-top:7px;
+    padding:3px;
+}
+
+/*--------------------------
+-------------- Report Section */
+
+#summSection table, #detailsSection table
+{
+    width: 700px;
+    border-top:2px solid #575759;
+    border-left:2px solid #575759;
+    border-right:2px solid #575759;
+    border-collapse:collapse;
+	padding: 3px;
+}
+#summSection th, #detailsSection th, #summComments th, #summGeneral th
+{
+    font-family:Arial, Sans-Serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #575759;
+    height: 25px;
+    padding: 10px;
+    text-align:left;
+}
+#summSection td
+{
+    width: 50%;
+    text-align:center;
+    font-size:12px;
+}
+.summResult, .summValue, .summValuePass, .summValueFail
+{
+    color: #006db0;
+    font-size: 32px;
+    font-weight:bold;
+    text-align:center;
+    vertical-align:bottom;
+}
+.summValuePass 
+{
+	color: #006db0;
+	text-decoration:none;
+}
+.summValueFail 
+{
+	color: red;
+	text-decoration:none;
+}
+	
+
+#summGeneral table
+{
+	width:700px;
+	border-top:2px solid #575759;
+    border-left:2px solid #575759;
+    border-right:2px solid #575759;
+    border-collapse:collapse;
+}
+#summGeneral td, #summComments td
+{
+	padding: 3px;
+	color: #575759;
+    font-size: 12px;
+
+}
+#summComments table
+{
+	width:700px;
+	border:2px solid #575759;
+    border-collapse:collapse;
+}
+.summGeneralLabel 
+{
+	width: 100px;
+}
+#detailsSection td, #detailsSection th, #reportSummary th, #reportSummary td
+{
+	border:2px solid #575759;
+	padding: 6px;
+    font-size:12px;
+}
+#detailsSection th
+{
+	background-color:#d8d8d8;
+	text-align:center;
+    
+}
+#detailsSection h2 a
+{
+	text-decoration: none;
+	color: #575759;
+    font-size:14px;
+}
+#reportSummary table
+{
+	width:100%;
+	border: 1px solid #575759;
+	border-collapse: collapse;
+}
+#reportSummary th
+{
+    font-family:Arial, Sans-Serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #575759;
+    background-color: #f0f0f0;
+    height: 25px;
+    padding: 10px;
+    text-align:left;
+}
+#reportSummary td
+{
+    text-align:center;
+    font-size:12px;
+    font-family:Arial, Sans-Serif;
+}

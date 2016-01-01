@@ -1,0 +1,5 @@
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\DataClass\bin\Debug\DataClass.dll
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\DataClass\bin\Debug\DataClass.pdb
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\DataClass\obj\Debug\DataClass.csprojResolveAssemblyReference.cache
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\DataClass\obj\Debug\DataClass.dll
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\DataClass\obj\Debug\DataClass.pdb

@@ -1,0 +1,5 @@
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\KinectV1\bin\Debug\KinectV1.dll
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\KinectV1\bin\Debug\KinectV1.pdb
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\KinectV1\obj\Debug\KinectV1.csprojResolveAssemblyReference.cache
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\KinectV1\obj\Debug\KinectV1.dll
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\KinectV1\obj\Debug\KinectV1.pdb

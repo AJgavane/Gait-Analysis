@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type = 'text/xsl' href = 'Resources/HTMLReport.xsl'?>
+<report>
+  <summary>
+    <name value="AJinkya S. Gavane" />
+    <age value="24" />
+    <folderPath value="C:\Users\admin\Desktop\Chandan" />
+    <gender value="Male" />
+    <height value="176" />
+    <kinectVersion value="Kinect Xbox 360 (Kinect v1)" />
+    <weight value="65" />
+    <timestamp value="28/12/2015 14:44:12" />
+  </summary>
+  <standardGaitParameters>
+    <agegroup std_value="18 to 40 years" />
+    <stridelength std_value="2" />
+    <walkingbase std_value="50 – 130mm" />
+    <speedofwalking std_value="0.94 – 1.66 m/sec" />
+    <cadence std_value="98 – 138 steps/min" />
+    <stepfactor std_value="2" />
+    <cycletime std_value="0.87 – 1.22 sec" />
+  </standardGaitParameters>
+  <observedGaitParameters>
+    <stridelength obsv_value="2" />
+    <walkingbase obsv_value="50 – 130mm" />
+    <speedofwalking obsv_value="0.94 – 1.66 m/sec" />
+    <cadence obsv_value="98 – 138 steps/min" />
+    <stepfactor obsv_value="2" />
+    <cycletime obsv_value="0.87 – 1.22 sec" />
+  </observedGaitParameters>
+</report>

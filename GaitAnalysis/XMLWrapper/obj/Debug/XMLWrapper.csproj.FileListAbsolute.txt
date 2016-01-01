@@ -1,0 +1,7 @@
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\XMLWrapper\bin\Debug\XMLWrapper.dll
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\XMLWrapper\bin\Debug\XMLWrapper.pdb
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\XMLWrapper\bin\Debug\DataClass.dll
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\XMLWrapper\bin\Debug\DataClass.pdb
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\XMLWrapper\obj\Debug\XMLWrapper.csprojResolveAssemblyReference.cache
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\XMLWrapper\obj\Debug\XMLWrapper.dll
+F:\Ajinkya_2011527\GaitAnalysis\Sofware_WPF\GaitAnalysis\XMLWrapper\obj\Debug\XMLWrapper.pdb

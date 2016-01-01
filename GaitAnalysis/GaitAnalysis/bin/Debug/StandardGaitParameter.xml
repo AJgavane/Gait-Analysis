@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<root>
+  <gaitParameters>
+    <agegroup>18 to 40 years</agegroup>
+    <age18to40>
+      <stridelength>2</stridelength>
+      <walkingbase>50 – 130mm</walkingbase>
+      <speedofwalking>0.94 – 1.66 m/sec</speedofwalking>
+      <cadence>98 – 138 steps/min</cadence>
+      <stepfactor>2</stepfactor>
+      <cycletime>0.87 – 1.22 sec</cycletime>
+    </age18to40>
+  </gaitParameters>
+</root>

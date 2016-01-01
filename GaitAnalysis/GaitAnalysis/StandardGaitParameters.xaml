@@ -1,0 +1,29 @@
+﻿<Window x:Class="GaitAnalysis.StandardGaitParameters"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StandardGaitParameters" Height="207" Width="519" WindowStyle="ThreeDBorderWindow" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Loaded="Window_Loaded_1">
+    <Grid>
+        <Canvas>
+            <GroupBox Header="Gait Parameters" Height="134" Canvas.Left="10" Width="478"/>
+            <Label x:Name="lbAgeGroup" Content="Age Group:" Canvas.Left="14" Canvas.Top="17"/>
+            <ComboBox x:Name="cmbAgeGroup" Width="120" Canvas.Left="125" Canvas.Top="21" Background="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}">
+                <ComboBoxItem Content="18 to 40 years"/>
+            </ComboBox>
+            <Label x:Name="lbStrideLength" Content="Stride Length:" Canvas.Left="14" Canvas.Top="49"/>
+            <Label x:Name="lbCadence" Content="Cadence: " Canvas.Left="14" Canvas.Top="77" RenderTransformOrigin="0.787,0.538"/>
+            <Label x:Name="lbSpeedOfWalking" Content="Speed of Walking:" Canvas.Left="14" Canvas.Top="108"/>
+            <Label x:Name="lbWalkingBase" Content="Walking Base:" Canvas.Left="270" Canvas.Top="49"/>
+            <Label x:Name="lbCycleTime" Content="Cycle Time:" Canvas.Left="270" Canvas.Top="77"/>
+            <Label x:Name="lbStepFactor" Content="Step Factor:" Canvas.Left="270" Canvas.Top="108"/>
+            <TextBox x:Name="tbStrideLength" Height="21" TextWrapping="Wrap" Width="120" Canvas.Left="125" Canvas.Top="52"/>
+            <TextBox x:Name="tbCadence" Height="21" TextWrapping="Wrap" Width="120" Canvas.Left="125" Canvas.Top="80"/>
+            <TextBox x:Name="tbSpeedOfWalking" Height="21" TextWrapping="Wrap" Width="120" Canvas.Left="125" Canvas.Top="108"/>
+            <TextBox x:Name="tbWalkingBase" Height="21" TextWrapping="Wrap" Width="120" Canvas.Left="358" Canvas.Top="52"/>
+            <TextBox x:Name="tbCycleTime" Height="21" TextWrapping="Wrap" Width="120" Canvas.Left="358" Canvas.Top="80"/>
+            <TextBox x:Name="tbStepFactor" Height="21" TextWrapping="Wrap" Width="120" Canvas.Left="358" Canvas.Top="108"/>
+            <Button x:Name="btnSubmit" Content="Submit" Width="75" Canvas.Left="413" Canvas.Top="139" IsDefault="True" Click="btnSubmit_Click"/>
+            <Button x:Name="btnReset" Content="Reset" Width="75" Canvas.Left="333" Canvas.Top="139" Click="btnReset_Click"/>
+            <Button x:Name="btnCancel" Content="Cancel" Width="75" Canvas.Left="14" Canvas.Top="139" IsCancel="True" Click="btnCancel_Click"/>
+        </Canvas>
+    </Grid>
+</Window>

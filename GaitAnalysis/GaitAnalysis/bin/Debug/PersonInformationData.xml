@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <person>
+    <name>AJinkya S. Gavane</name>
+    <height>176</height>
+    <weight>65</weight>
+    <age>24</age>
+    <gender>Male</gender>
+    <folderPath>C:\Users\admin\Desktop\Chandan</folderPath>
+    <kinectVersion>Kinect XBOX One (Kinect v2)</kinectVersion>
+  </person>
+</root>
